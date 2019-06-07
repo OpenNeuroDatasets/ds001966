@@ -1,6 +1,8 @@
 {
     "BIDSVersion": "1.2.0",
-    "License": "This dataset is made available under the Creative Commons Attribution 4.0 International Public License.",
+    "License": "This dataset is made available under the CC0 License.",
     "Name": "action-in-auctions",
-    "ReferencesAndLinks": ["articlename"]
+    "ReferencesAndLinks": [
+        "articlename"
+    ]
 }
